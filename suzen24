@@ -1,0 +1,4 @@
+#!/bin/bash
+mkdir Music
+cp -r Desktop/music/* Music/
+ls -a
